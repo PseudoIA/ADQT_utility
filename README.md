@@ -1,4 +1,4 @@
-# Proyecto de Gestión de Usuarios y Soporte Técnico
+Gestión de Usuarios y Soporte Técnico
 
 Este proyecto proporciona una solución para la gestión de usuarios en Active Directory (AD) y la interacción con bases de datos SQL Server, integrando también una API de inteligencia artificial para la mejora de la comunicación. Incluye una interfaz gráfica de usuario (GUI) y un temporizador para la gestión de tiempos de respuesta y cumplimiento de SLAs.
 
@@ -36,31 +36,6 @@ pymssql
 groq
 Puedes instalar las dependencias necesarias usando pip:
 
-sh
-Copiar código
-pip install pymssql groq
-Configura las Credenciales Asegúrate de reemplazar las credenciales de la API de Groq en el código en Qery_ad con tus propias credenciales.
-
-Uso
-Ejecuta el Proyecto Navega a la carpeta del proyecto y ejecuta el archivo principal:
-
-sh
-Copiar código
-python <nombre-del-archivo>.py
-Interacción
-
-Buscar: Usa el botón "Buscar" para consultar datos en la interfaz.
-Cambiar Contraseña: Usa el botón "Cambiar Contraseña" para cambiar la contraseña de un usuario.
-Desbloquear: Usa el botón "Desbloquear" para desbloquear una cuenta.
-Iniciar Temporizador: Usa el botón "Iniciar temporizador" para comenzar a contar el tiempo.
-Contribuciones
-Las contribuciones son bienvenidas. Por favor, sigue los siguientes pasos para contribuir al proyecto:
-
-Haz un fork del repositorio.
-Crea una nueva rama para tu característica o corrección de errores.
-Envía un pull request con una descripción detallada de los cambios.
-Licencia
-Este proyecto está licenciado bajo la Licencia MIT.
 
 Contacto
 Para cualquier consulta, puedes contactar a [tu-email@dominio.com].
