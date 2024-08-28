@@ -38,5 +38,5 @@ Puedes instalar las dependencias necesarias usando pip:
 
 
 Contacto
-Para cualquier consulta, puedes contactar a [tu-email@dominio.com].
+Para cualquier consulta, puedes contactar a [bbarreram1@gmail.com].
 
