@@ -29,7 +29,7 @@ class Qery_ad:
         self.root.geometry("400x270")
         self.root.config(bg='black')
         self.root.attributes('-alpha', 1)
-        self.root.iconbitmap('sonda.ico')
+        self.root.iconbitmap('*ingresar imagen*')
         self.create_widgets()
         self.root.resizable(False, False)
         self.root.protocol("WM_DELETE_WINDOW", self.close_principal)        
