@@ -1,4 +1,4 @@
-Gestión de Usuarios y Soporte Técnico
+Utilidad de gestión haciendo uso de RSAT para gestionar casos de soporte desde mesa de servicio.
 
 Este proyecto proporciona una solución para la gestión de usuarios en Active Directory (AD) y la interacción con bases de datos SQL Server, integrando también una API de inteligencia artificial para la mejora de la comunicación. Incluye una interfaz gráfica de usuario (GUI) y un temporizador para la gestión de tiempos de respuesta y cumplimiento de SLAs.
 
